@@ -1,0 +1,7 @@
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\bin\Debug\Ejemplo1_2788218.exe.config
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\bin\Debug\Ejemplo1_2788218.exe
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\bin\Debug\Ejemplo1_2788218.pdb
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\obj\Debug\Ejemplo1_2788218.csproj.AssemblyReference.cache
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\obj\Debug\Ejemplo1_2788218.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\obj\Debug\Ejemplo1_2788218.exe
+C:\Users\Mi pc\Desktop\Ejemplo1_2788218\Ejemplo1_2788218\obj\Debug\Ejemplo1_2788218.pdb
