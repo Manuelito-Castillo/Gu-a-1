@@ -1,0 +1,7 @@
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\bin\Debug\Ejercicio_2.3_2788218.exe.config
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\bin\Debug\Ejercicio_2.3_2788218.exe
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\bin\Debug\Ejercicio_2.3_2788218.pdb
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\obj\Debug\Ejercicio_2.3_2788218.csproj.AssemblyReference.cache
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\obj\Debug\Ejercicio_2.3_2788218.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\obj\Debug\Ejercicio_2.3_2788218.exe
+C:\Users\Mi pc\Desktop\Ejercicio_2.3_2788218\Ejercicio_2.3_2788218\obj\Debug\Ejercicio_2.3_2788218.pdb
